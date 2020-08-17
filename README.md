@@ -1,6 +1,9 @@
 # JaccardIndexTextComparator
 Super inefficient text comparator based on Jaccard index with toggleable spellcheck
 
+# If you came here from itch.io
+Please download the "CUI_Score.pdf" file there you can find the full list of scores. I am sort of missusing this github to host it here, since it is sort of related to this project.
+
 ## What is it good for?
 It's the most basic way to compare two texts and determine their similarety with a numerical value ranging from 0 to 1.
 
